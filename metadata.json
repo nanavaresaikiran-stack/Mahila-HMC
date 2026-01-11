@@ -1,0 +1,7 @@
+{
+  "name": "HR Pulse - Advanced Attendance & Workforce Management",
+  "description": "A comprehensive HR management suite featuring real-time attendance tracking, automated payroll insights, leave management, and an AI-powered HR assistant for policy inquiries.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
